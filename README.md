@@ -1,7 +1,7 @@
 # ENSEMBLE
 <br>
   <img src="logo4.png"><br>
- _ Audio Effect VST Plugin_ <br>
+ Audio Effect VST Plugin <br>
 **A spectral texture forge that transforms live audio into evolving, Penderecki-inspired orchestral swarms.**
 
 ENSEMBLE captures your audio into a circular buffer and continuously re-reads it through 8 voices with golden-ratio panning, incommensurate LFOs, and dual MASS/DUST grain layers; producing dense, breathing textures from any input.
