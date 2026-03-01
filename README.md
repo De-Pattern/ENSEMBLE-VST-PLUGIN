@@ -4,7 +4,7 @@
 <hr>
 
  _Audio Effect VST Plugin_
- <br>
+
 <hr>
 
 **A spectral texture forge that transforms live audio into evolving, Penderecki-inspired orchestral swarms.**
