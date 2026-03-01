@@ -4,7 +4,6 @@
 <hr>
 
  _Audio Effect VST Plugin_
- 
  <br>
 <hr>
 
