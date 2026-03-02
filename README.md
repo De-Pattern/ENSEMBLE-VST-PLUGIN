@@ -166,3 +166,7 @@ Rescan plugins in your DAW. ENSEMBLE appears as an audio effect.
 - The **Processing Lab** knobs all start at 0 (off), the core engine is the weave + grains
 
 See [BUILD.md](BUILD.md) for full instructions. Requires JUCE 8.0.4 and a C++ compiler (Visual Studio 2022+ on Windows, Xcode on macOS).
+
+<br>
+  <img src="logo5.png"><br>
+<hr>
