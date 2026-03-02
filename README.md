@@ -168,5 +168,5 @@ Rescan plugins in your DAW. ENSEMBLE appears as an audio effect.
 See [BUILD.md](BUILD.md) for full instructions. Requires JUCE 8.0.4 and a C++ compiler (Visual Studio 2022+ on Windows, Xcode on macOS).
 
 <br>
-  <img src="logo5.png"><br>
+  <img src="logo5.png" width="320" height="240"><br>
 <hr>
